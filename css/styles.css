@@ -1,0 +1,107 @@
+.centrar{
+    text-align: center;
+}
+.espacio{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+body{
+    color:#212121;
+    font-family: 'Balsamiq Sans', cursive,;
+    background-color: #BDBDBD;
+
+}
+.display{
+    display: inline;
+}
+header{
+    height: 80px;
+    }
+    
+.logo{
+    width: 150px;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    
+}
+.ul{
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    padding-left: 50px;
+    justify-content: center;
+    
+}
+.aheader{
+    color:#212121;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-start;
+}
+p{
+    font-size: 15px;
+    
+}
+
+.img{
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin-right: 30px;
+}
+
+.carrusel{
+    background: url(../images/fondo2.png)center center fixed;
+    background-size: cover;
+}
+.d-block{
+    height: 800px;
+}
+.txt{
+    font-size: 14px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 0;
+}
+.productos{
+    background: url(../images/fondo2.png)center center fixed;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}
+[class="btn btn-outline-primary"]{
+    margin-top: 20px;
+    font-size: 12px;
+    float: right;
+    border: solid 1px;
+}
+[class="plantbased"]{
+    text-align: center;
+}
+[class="card 1"]{
+    width: 100%;
+    height: 80vh;
+    background: url(../images/vrinko-1024x768.jpg)center center;
+    background-size: cover;
+}
+[class="card 2"]{
+    width: 100%;
+    height: 80vh;
+    background: url(../images/Web-Vrink-03-1024x768.jpg)center center;
+    background-size: cover;
+}
+
+.receta{
+    background: url(../images/fondo2.png)center center fixed;
+    background-size: cover;
+}
+
+.footer{
+    height: 200px;
+    background-color: rgb(36, 36, 36);
+}
